@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">![ranking](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=javieroramas)<\p>
-<p align="center">![github stats](https://github-readme-stats.vercel.app/api?username=javieroramas)<\p>
-<p align="center">![trophy](https://github-profile-trophy.vercel.app/?username=javieroramas&column=3&margin-w=15&margin-h=15)<\p>
-<p align="center">![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=javieroramas)<\p>
+![ranking](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=javieroramas)
+![github stats](https://github-readme-stats.vercel.app/api?username=javieroramas)
+![trophy](https://github-profile-trophy.vercel.app/?username=javieroramas&column=3&margin-w=15&margin-h=15)
+![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=javieroramas)
