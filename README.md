@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![ranking](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=javieroramas)
 ![trophy](https://github-profile-trophy.vercel.app/?username=javieroramas&column=3&margin-w=15&margin-h=15)
+![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=javieroramas)
