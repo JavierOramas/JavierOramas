@@ -1,7 +1,7 @@
 ### Hi there Im Javier Oramas👋
 
 > Curriculum Vitae
-<a href="https://github.com/javieroramas/CV/CV_Javier_ES.pdf">CV ES</a> | <a href="https://github.com/javieroramas/CV/CV_Javier_EN.pdf">CV EN</a>
+<a href="https://github.com/JavierOramas/CV/blob/master/CV_Javier_ES.pdf">CV ES</a> | <a href="https://github.com/JavierOramas/CV/blob/master/CV_Javier_EN.pdf">CV EN</a>
 
 ![ranking](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=javieroramas)
 
