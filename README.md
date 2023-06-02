@@ -2,6 +2,8 @@
 
 <!--
 **JavierOramas/JavierOramas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Curriculum Vitae
+<a href="https://github.com/javieroramas/CV/CV_Javier_ES.pdf">CV ES</a> | <a href="https://github.com/javieroramas/CV/CV_Javier_EN.pdf">CV EN</a>
 
 Here are some ideas to get you started:
 
