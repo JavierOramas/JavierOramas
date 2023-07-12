@@ -1,7 +1,7 @@
 ### Hi there Im Javier Oramas👋
 
 > Curriculum Vitae
-<a href="https://github.com/JavierOramas/CV/blob/master/CV_Javier_ES.pdf">CV ES</a> | <a href="https://github.com/JavierOramas/CV/blob/master/CV_Javier_EN.pdf">CV EN</a>
+<a href="https://github.com/JavierOramas/CV/releases/download/CV/CV_Javier_ES.pdf">CV ES</a> | <a href="https://github.com/JavierOramas/CV/releases/download/CV/CV_Javier_EN.pdf">CV EN</a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=javieroramas)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=javieroramas)
