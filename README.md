@@ -1,4 +1,3 @@
-<div style="text-align: center;">
 
 ### Hi there, I'm Javier Oramas 👋
 
@@ -13,6 +12,7 @@ Alongside my academic and professional pursuits, I've actively participated in e
 
 Proficient in an array of programming languages and technologies including Python, C#, C, Dart, TensorFlow, PyTorch, Git, and more, my GitHub page reflects my continuous commitment to exploring, learning, and contributing to the world of computer science.
 
+<div style="text-align: center;">
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=javieroramas)
 
