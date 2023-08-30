@@ -4,7 +4,7 @@
 > Curriculum Vitae
 <a href="https://github.com/JavierOramas/CV/releases">CV Files</a>
 
-A passionate Computer Science student currently pursuing a Bachelor's degree at MATCOM, Havana University, Cuba, since 2018. My academic journey began with a Science Bachelor from the Vocational Institute of Exact Sciences Ernesto Guevara in 2018. 
+A passionate Computer Science student currently pursuing a Bachelor's degree at MATCOM, Havana University, Cuba, since 2018. My academic journey began with a Science Bachelor from the Vocational Institute of Exact Sciences Ernesto Guevara in 2015. 
 
 Since 2021, I've been actively engaged as a Developer at American Behavioral Solutions (ABS) in Arizona, where I've contributed to the development and deployment of a management system for supervisions. My GitHub showcases a wide range of personal projects, including a distributed file system, machine learning models for inferring Cuba's contact matrix and predicting various outcomes, as well as endeavors like a functional MIPS microprocessor and games designed with various technologies. 
 
