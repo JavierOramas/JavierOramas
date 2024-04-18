@@ -12,6 +12,18 @@ Alongside my academic and professional pursuits, I've actively participated in e
 
 Proficient in an array of programming languages and technologies including Python, C#, C, Dart, TensorFlow, PyTorch, Git, and more, my GitHub page reflects my continuous commitment to exploring, learning, and contributing to the world of computer science.
 
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=py,latex,md,js,html,css,c,cs,cpp,dart,go,haskell)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,bootstrap,django,dotnet,jquery,nodejs,react)](https://skillicons.dev)
+
+## Platforms
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,github,githubactions,gitlab,discord,heroku)](https://skillicons.dev)
+
+## Software/OS
+[![My Skills](https://skillicons.dev/icons?i=docker,git,mongodb,mysql,anaconda,androidstudio,linux,debian,arch,mint,nix,atom,bash,clion,cmake,gradle,npm,redis)](https://skillicons.dev)
+
 <div style="text-align: center;">
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=javieroramas)
