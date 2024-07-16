@@ -16,7 +16,7 @@ Proficient in an array of programming languages and technologies including Pytho
 [![My Skills](https://skillicons.dev/icons?i=py,latex,md,js,html,css,c,cs,cpp,dart,go,haskell)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,bootstrap,django,dotnet,jquery,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,nuxt,bootstrap,django,dotnet,jquery,nodejs,react)](https://skillicons.dev)
 
 ## Platforms
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,github,githubactions,gitlab,discord,heroku,travis)](https://skillicons.dev)
