@@ -13,7 +13,7 @@ Alongside my academic and professional pursuits, I've actively participated in e
 Proficient in an array of programming languages and technologies including Python, C#, C, Dart, TensorFlow, PyTorch, Git, and more, my GitHub page reflects my continuous commitment to exploring, learning, and contributing to the world of computer science.
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,latex,md,js,html,css,c,cs,cpp,dart,go,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,rust,html,css,c,cs,cpp,dart,go,haskell,latex,md)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,nuxt,bootstrap,django,dotnet,jquery,nodejs,react)](https://skillicons.dev)
