@@ -2,7 +2,7 @@
 ### Hi there, I'm Javier Oramas 👋
 
 > Curriculum Vitae
-<a href="https://github.com/JavierOramas/CV/releases">CV Files</a>
+<a href="https://github.com/JavierOramas/CV/releases/tag/CV">CV Files</a>
 
 A passionate Computer Science student currently pursuing a Bachelor's degree at MATCOM, Havana University, Cuba, since 2018. My academic journey began with a Science Bachelor from the Vocational Institute of Exact Sciences Ernesto Guevara in 2015. 
 
