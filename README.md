@@ -1,37 +1,34 @@
+# 👋 Hi, I'm Javier Oramas López
 
-### Hi there, I'm Javier Oramas 👋
-
+## 💻 Full-Stack Developer | 🔧 DevOps Engineer | 🧠 AI Researcher
 > Curriculum Vitae
 <a href="https://github.com/JavierOramas/CV/releases/tag/CV">CV Files</a>
+---
 
-A passionate Computer Science student currently pursuing a Bachelor's degree at MATCOM, Havana University, Cuba, since 2018. My academic journey began with a Science Bachelor from the Vocational Institute of Exact Sciences Ernesto Guevara in 2015. 
+🎓 Computer Science graduate from Havana University with expertise in backend development, DevOps, and artificial intelligence.
 
-Since 2021, I've been actively engaged as a Developer at American Behavioral Solutions (ABS) in Arizona, where I've contributed to the development and deployment of a management system for supervisions. My GitHub showcases a wide range of personal projects, including a distributed file system, machine learning models for inferring Cuba's contact matrix and predicting various outcomes, as well as endeavors like a functional MIPS microprocessor and games designed with various technologies. 
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, C/C++, Rust, Go, Dart
+- **Frameworks:** Django, FastAPI, TensorFlow, PyTorch, Flutter
+- **Tools:** Docker, Git, MongoDB, SQLAlchemy, Pytest
 
-Alongside my academic and professional pursuits, I've actively participated in events, conferences, and competitions, achievinggreat results such as best predictions for 2022 FIFA World Cup and Lima 2019 Panamerican Games (results for Cuba). 
+### 🚀 What I Do
+- 🔄 Backend Developer at Fonoma LLC (Django, FastAPI, Node.js)
+- ⚙️ Tech Consultant and DevOps Engineer since 2019
+- 🏆 Creator of award-winning prediction models for FIFA World Cup and Pan American Games
+- 🔍 OCR systems developer for academic research
 
-Proficient in an array of programming languages and technologies including Python, C#, C, Dart, TensorFlow, PyTorch, Git, and more, my GitHub page reflects my continuous commitment to exploring, learning, and contributing to the world of computer science.
+### 🔥 Notable Projects
+- 📱 LaLuu: Energy consumption estimation app
+- 🎮 "El Origen" video game in Unity/C#
+- 🔬 Machine learning models for epidemiology (Dengue, COVID-19)
+- 🗄️ Distributed file systems with self-discovery and fault tolerance
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,rust,html,css,c,cs,cpp,dart,go,haskell,latex,md)](https://skillicons.dev)
+### 🏅 Achievements
+- 🥇 Best prediction worldwide for FIFA World Cup 2022
+- 🏆 Multiple awards in programming competitions (ACM-ICPC)
+- 🔝 Recognized for "Relevant thesis for the AI tribunal"
 
-## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,nuxt,bootstrap,django,dotnet,jquery,nodejs,react)](https://skillicons.dev)
+---
 
-## Platforms
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,github,githubactions,gitlab,discord,heroku,travis)](https://skillicons.dev)
-
-## Software/OS
-[![My Skills](https://skillicons.dev/icons?i=apple,docker,git,mongodb,mysql,anaconda,androidstudio,linux,debian,arch,mint,nix,atom,bash,clion,cmake,gradle,npm,redis)](https://skillicons.dev)
-
-<div style="text-align: center;">
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=javieroramas)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=javieroramas&column=3&margin-w=15&margin-h=15)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=javieroramas)
-
-![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=javieroramas)
-
-</div>
+💬 Let's connect and build something amazing!
