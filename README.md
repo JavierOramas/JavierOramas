@@ -9,8 +9,8 @@
 🎓 Computer Science graduate from Havana University with expertise in backend development, DevOps, and artificial intelligence.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, C/C++, Rust, Go, Dart
-- **Frameworks:** Django, FastAPI, TensorFlow, PyTorch, Flutter
+- **Languages:** Python,Typescript, JavaScript, C/C++, Rust, Go, Dart
+- **Frameworks:** Django, FastAPI, ReactJs, ReactNavitve TensorFlow, PyTorch, Flutter
 - **Tools:** Docker, Git, MongoDB, SQLAlchemy, Pytest
 
 ### 🚀 What I Do
