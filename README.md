@@ -20,6 +20,7 @@
 - 🔍 OCR systems developer for academic research
 
 ### 🔥 Notable Projects
+- 🛫 <a href="https://wamasol.com">Wamasol</a>: SaaS and Travel Platform
 - 📱 LaLuu: Energy consumption estimation app
 - 🎮 "El Origen" video game in Unity/C#
 - 🔬 Machine learning models for epidemiology (Dengue, COVID-19)
