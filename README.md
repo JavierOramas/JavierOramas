@@ -3,8 +3,6 @@
 ## 💻 Full-Stack Developer | 🔧 DevOps Engineer | 🧠 AI Researcher
 
 ---
-> Curriculum Vitae
-<a href="https://github.com/JavierOramas/CV/releases/tag/CV">CV Files</a>
 
 🎓 Computer Science graduate from Havana University with expertise in backend development, DevOps, and artificial intelligence.
 
