@@ -87,9 +87,6 @@ Computer Science graduate from the **University of Havana**, currently pursuing 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierOramas&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierOramas&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavierOramas&theme=radical)
 
 </div>
