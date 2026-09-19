@@ -84,15 +84,6 @@ Computer Science graduate from the **University of Havana**, currently pursuing 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavierOramas&theme=radical)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
