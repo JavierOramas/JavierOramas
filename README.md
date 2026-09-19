@@ -88,9 +88,9 @@ Computer Science graduate from the **University of Havana**, currently pursuing 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierOramas&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierOramas&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavierOramas&theme=radical)
 
 </div>
 
@@ -100,8 +100,8 @@ Computer Science graduate from the **University of Havana**, currently pursuing 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javieroramaslopez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiale2000@gmail.com)
 [![Wamasol](https://img.shields.io/badge/Website-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wamasol.com)
 
 </div>
