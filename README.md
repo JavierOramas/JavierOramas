@@ -69,7 +69,7 @@ Computer Science graduate from the **University of Havana**, currently pursuing 
 | ✈️ [Wamasol](https://wamasol.com) | B2B travel/DMC SaaS platform with a two-layer cascading margin model |
 | 📲 Wamasol B2C App | React Native/Expo consumer app on the same backend — hotel search, autosuggest, JWT + Google/Apple auth |
 | 🖥️ Local LLM Gateway | Self-hosted FastAPI + SQLite gateway exposing local Ollama/MLX models via Cloudflare Tunnel, with API-key auth and an admin dashboard |
-| 🎟️ [Matticket](https://matticket.com) | Ticket Manages system, end-to-end with iOS and Android Apps |
+| 🎟️ [Matticket](https://matticket.com) | Ticket Management system, end-to-end with iOS and Android Apps |
 | 📱 LaLuu | Energy consumption estimation app |
 | 🎮 "El Origen" | Video game built in Unity/C# |
 | 🔬 Epidemiology ML models | Forecasting models for Dengue and COVID-19 |
